@@ -1,0 +1,12 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2010,3511351.2789765974,3690537.8572133235,3199553.669104454
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2014,3653162.4810618176,3854886.2349614054,3324166.2283523106
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2018,3888249.1562828636,4190534.3306898223,3513516.469517293
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2011,3540614.813357392,3737692.94510792,3223937.8703928525
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2009,3499545.1549663097,3676636.7977465726,3190243.170747396
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2013,3612297.998964469,3797786.9203345873,3294738.3074484672
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2012,3559736.257116707,3755335.6855205838,3236048.9838642287
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2015,3692439.017602864,3906449.8082523663,3334161.957510849
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2017,3797537.8141818363,4041354.276388067,3455335.961737926
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2016,3742352.581710069,3984265.5351068145,3409502.02977778
+1,Deaths,1,Global,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2019,3974314.519532562,4303822.871300143,3581756.6387082143
